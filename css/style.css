@@ -395,3 +395,38 @@ header
 {
     color: grey;
 }
+
+.client-img
+{
+    width: 80px;
+    border: solid 2px #f4f4f4;
+    transform: translateY(50%);
+    height: 80px;
+}
+
+.client-feedback
+{
+    border: solid 2px #f4f4f4;
+}
+
+.client-feedback .brdr
+{
+    width: 10%;
+    height: 1.5px;
+    background-color: #ff206e;
+    margin: 10px auto;
+}
+
+.carousel-indicators [data-bs-target]
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-indent: 0px;    
+}
+
+.clieents
+{
+    width: 50px;
+    height: 50px;
+}
